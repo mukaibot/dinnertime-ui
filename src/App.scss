@@ -23,9 +23,13 @@
   text-align: center;
 }
 
-.shopping-list ul {
-  text-align: left;
-  margin-left: 40%;
+.shopping-list {
+  text-align: center;
+
+  ul {
+    text-align: left;
+    display: inline-block;
+  }
 }
 
 .meal-plan {
