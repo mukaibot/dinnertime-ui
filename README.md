@@ -1,2 +1,1 @@
 # dinnertime-ui
-Dinnertime UI

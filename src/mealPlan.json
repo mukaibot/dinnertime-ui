@@ -1,0 +1,37 @@
+[
+  {
+    "day": "Monday",
+    "family": "Tofu stir-fry",
+    "timothy": null
+  },
+  {
+    "day": "Tuesday",
+    "family": "Left overs (dumplings, rice and salad for Mina)",
+    "timothy": "Black bean tacos"
+  },
+  {
+    "day": "Wednesday",
+    "family": "Tofu, sweet potato and carrots",
+    "timothy": "John and Trish"
+  },
+  {
+    "day": "Thursday",
+    "family": "Tofu stir-fry",
+    "timothy": null
+  },
+  {
+    "day": "Friday",
+    "family": "left overs and broccoli from fridge",
+    "timothy": "Take away"
+  },
+  {
+    "day": "Saturday",
+    "family": "Chicken nuggets",
+    "timothy": "Tempeh salad"
+  },
+  {
+    "day": "Sunday",
+    "family": "Lasagna",
+    "timothy": "Chana masala & roti"
+  }
+]
